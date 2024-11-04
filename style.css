@@ -1,3 +1,11 @@
 .header {
-  box-shadow: 15px;
+}
+
+.header_container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.nav__item {
+  color: black;
 }
